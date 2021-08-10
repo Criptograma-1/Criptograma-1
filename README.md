@@ -21,7 +21,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=criptograma-1&show_icons=true&theme=radical&locale=en" alt="criptograma-1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=criptograma-1&theme=highcontrast" alt="criptograma-1" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=criptograma-1&show_icons=true&theme=merko&locale=en&layout=compact" alt="criptograma-1" /></p>
 
